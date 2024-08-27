@@ -1,0 +1,15 @@
+# Estruturais
+
+[Adapter](Estruturais%20102d737f703c4ddab706da4369ba5963/Adapter%2061851eeba40e445282ca44a5daa49dbf.md)
+
+[Bridge](Estruturais%20102d737f703c4ddab706da4369ba5963/Bridge%20e9bb73745d9f4c0d89acb84fdcfb9074.md)
+
+[Composite](Estruturais%20102d737f703c4ddab706da4369ba5963/Composite%208a9c71f999024e688917044ec792019d.md)
+
+[Decorator](Estruturais%20102d737f703c4ddab706da4369ba5963/Decorator%2071f1c91e8ed34a7abf283106c82ec050.md)
+
+[Facade](Estruturais%20102d737f703c4ddab706da4369ba5963/Facade%20018547e372ca4fe9b56c0327235b9b3c.md)
+
+[Flyweight](Estruturais%20102d737f703c4ddab706da4369ba5963/Flyweight%202300d92921b643738bebc4b3c0816f74.md)
+
+[Proxy](Estruturais%20102d737f703c4ddab706da4369ba5963/Proxy%20951de6f833eb4245b11465dd5588891d.md)

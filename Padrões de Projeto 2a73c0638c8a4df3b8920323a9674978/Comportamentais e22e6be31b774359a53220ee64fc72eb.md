@@ -1,0 +1,23 @@
+# Comportamentais
+
+[Chain of Responsibility](Comportamentais%20e22e6be31b774359a53220ee64fc72eb/Chain%20of%20Responsibility%20c1a40d5083c14c7095060a1e9ddb7593.md)
+
+[Command](Comportamentais%20e22e6be31b774359a53220ee64fc72eb/Command%20c6fa05f83a6a4e15a35eb3e9a23794b4.md)
+
+[Interpreter](Comportamentais%20e22e6be31b774359a53220ee64fc72eb/Interpreter%20e62c511c84f4439294b72267f5152743.md)
+
+[Iterator](Comportamentais%20e22e6be31b774359a53220ee64fc72eb/Iterator%208388a0cc234b4928a0e2f0a86f73d171.md)
+
+[Mediator](Comportamentais%20e22e6be31b774359a53220ee64fc72eb/Mediator%208fbbc909068b42a7af5ca8986818b19f.md)
+
+[Memento](Comportamentais%20e22e6be31b774359a53220ee64fc72eb/Memento%207ca28fdb6ad648f4915e570f11983381.md)
+
+[Observer](Comportamentais%20e22e6be31b774359a53220ee64fc72eb/Observer%2090736e64ecc8451eb065ed6cde0d9eae.md)
+
+[State](Comportamentais%20e22e6be31b774359a53220ee64fc72eb/State%2017d4bd463dbd4517aaa4db12daf592af.md)
+
+[Strategy](Comportamentais%20e22e6be31b774359a53220ee64fc72eb/Strategy%202ec9c2586a6f4715bda5b6fb7180b816.md)
+
+[Template Method](Comportamentais%20e22e6be31b774359a53220ee64fc72eb/Template%20Method%2057d8aa89543c4a9790a049e46cc0885e.md)
+
+[Visitor](Comportamentais%20e22e6be31b774359a53220ee64fc72eb/Visitor%2007d6977ca6364332bfa5d7ec4a939606.md)
